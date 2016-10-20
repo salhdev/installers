@@ -46,6 +46,7 @@ class Installer extends LibraryInstaller
         'kodicms'      => 'KodiCMSInstaller',
         'kohana'       => 'KohanaInstaller',
         'laravel'      => 'LaravelInstaller',
+        'lesk'         => 'LESKInstaller',
         'lithium'      => 'LithiumInstaller',
         'magento'      => 'MagentoInstaller',
         'mako'         => 'MakoInstaller',
